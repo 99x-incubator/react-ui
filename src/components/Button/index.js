@@ -1,6 +1,6 @@
 import React from 'react';
-import { validateProps } from '../../Utils/validator';
-import * as Constants from '../../Constants/propsWhiteList'; 
+import { validateProps } from '../../utils/validator';
+import * as Constants from '../../constants/propsWhiteList'; 
 
 export default class Button extends React.Component {
     render(){

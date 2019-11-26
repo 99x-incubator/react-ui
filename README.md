@@ -9,13 +9,9 @@
 React-ui will certainly help with the problems of replicating UX work into the application components.
 
 <h3>How use react-ui storybook locally</h3>
-------------------------------------------
 
 1. `npm install`
 2. `npm run storybook`
-
-
-
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo

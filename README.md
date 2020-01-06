@@ -14,3 +14,20 @@ Describe react-ui here.
 
 [coveralls-badge]: https://img.shields.io/coveralls/user/repo/master.png?style=flat-square
 [coveralls]: https://coveralls.io/github/user/repo
+
+## Setup
+Follow these steps to setup the project locally.
+
+1. Clone the project
+```
+$ git clone https://github.com/99xt-incubator/react-ui.git
+```
+2. Install node modules
+```
+$ cd react-ui
+$ npm install
+```
+3. Run local dev server
+```
+$ npm run start
+```
